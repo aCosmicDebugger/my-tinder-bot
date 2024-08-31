@@ -1,0 +1,30 @@
+[
+    {
+        "key": "TinderWeb/APIToken",
+        "value": "481ee0b2-f76d-4bbc-adbc-b6df46c0aaa7"
+    },
+    {
+        "key": "TinderWeb/ConfigService",
+        "value": "{\"levers\":{\"identity.account_deletion_full_page\":[false,\"731ddab980905a295a48c36960b1ccd2\",\"boolean\",1725144028452],\"onboarding.age_gate_jumio_appeal_enabled\":[true,\"0acfec5a1f281b3d71fd0597c2abae61\",\"boolean\",1725144013608],\"age_verification.post_onboarding_enabled\":[false,null,\"boolean\",1725144028450],\"trust.appeal_center_access_control\":[true,\"789349bfdb317791cbf4088ac657940f\",\"boolean\",1725144013608],\"identity.auth_options\":[4,\"96404dc889f4c52ba944992c58115446\",\"number\",1725144013608],\"identity.backend_driven_web_captcha_enabled\":[true,\"01e29223ff099a1b4bd45fc2df2bbd7b\",\"boolean\",1725144013608],\"boost.wallet_enabled\":[true,null,\"boolean\",1725144028449],\"bouncer.bouncer_bypass_enabled\":[false,null,\"boolean\",1725144028452],\"bouncer.bouncer_bypass_modal_variant\":[0,null,\"number\",1725144028450],\"bouncer.bounce_to_gold\":[false,null,\"boolean\",1725144028452],\"bugsnag.is_enabled_web\":[true,null,\"boolean\",1725144028452],\"bugsnag.is_performance_enabled_web\":[false,null,\"boolean\",17251440284..."
+    },
+    {
+        "key": "TinderWeb/uuid",
+        "value": "b9f0182e-be8d-430f-81b5-3f97c8c85ec9"
+    },
+    {
+        "key": "activeTabKey",
+        "value": "ed0f85b1-ebab-406b-9794-eee6afd6102c"
+    },
+    {
+        "key": "bugsnag-anonymous-id",
+        "value": "cm0hf4iy300002v6gfr1kf4ms"
+    },
+    {
+        "key": "dfValue",
+        "value": "value"
+    },
+    {
+        "key": "onboardingDoneForIds",
+        "value": "[\"NjZkMjViOTYyYjI5\"]"
+    }
+]
