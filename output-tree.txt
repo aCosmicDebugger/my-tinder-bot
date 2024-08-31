@@ -1,0 +1,12 @@
+tinder-swipe-bot/
+│
+├── .env                  
+├── .gitignore             
+├── requirements.txt
+├── cookies.json
+├── local_storage.json
+├── session_storage.json
+├── run_tinder_bot.sh      
+├── tinder_bot.py          
+└── venv/                  
+
