@@ -1,4 +1,0 @@
-1725145668567	geckodriver	INFO	Listening on 127.0.0.1:57509
-1725145668570	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... 80" "--remote-debugging-port" "51053" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIGtk6O"
-1725145675369	geckodriver	INFO	Listening on 127.0.0.1:58873
-1725145675371	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/sna ... 80" "--remote-debugging-port" "49381" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefTRqXL"
