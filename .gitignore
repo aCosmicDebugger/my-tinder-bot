@@ -1,5 +1,8 @@
 .env
 geckodriver.log
+cookies.json
+local_storage.json
+session_storage.json
 venv/
 .idea/
 
