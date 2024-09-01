@@ -1,4 +1,5 @@
 .env
+geckodriver.log
 venv/
 .idea/
 
