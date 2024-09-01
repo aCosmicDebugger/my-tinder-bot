@@ -10,11 +10,9 @@ import os
 import json
 from dotenv import load_dotenv
 
-# Configurações de logging
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-
 # Carrega as variáveis do .env
 load_dotenv()
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 username = os.getenv("TINDER_USERNAME")
 password = os.getenv("TINDER_PASSWORD")
